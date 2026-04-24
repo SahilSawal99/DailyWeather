@@ -4,7 +4,7 @@
 
 ### Prerequisites
 - Java `21` (see `<java.version>21</java.version>` in `pom.xml`)
-- Internet access (calls OpenWeather)
+- Internet access (call OpenWeather)
 - An OpenWeather API key
 
 ### 1) Configure API Key (choose one)
